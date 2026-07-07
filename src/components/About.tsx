@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Data Analyst skilled in SQL, Python, Excel, and Business Intelligence tools with hands-on experience processing 65K+ records and architecting interactive dashboards for healthcare and quick-commerce domains. Proficient in automated ETL, exploratory data analysis (EDA), KPI engineering, and structural data modeling using Power BI, DAX, and Power Query to drive data-centric business decisions.
         </p>
       </div>
     </div>
