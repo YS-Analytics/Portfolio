@@ -27,11 +27,12 @@ const WhatIDo = () => {
   return (
     <div className="whatIDO">
       <div className="what-box">
-        <h2 className="title">
-          W<span className="hat-h2">HAT</span>
-          <div>
-            I<span className="do-h2"> DO</span>
-          </div>
+        <h2 className="title" style={{ textAlign: "center" }}>
+          WHAT<br />
+          <br />
+          I<br />
+          <br />
+          <span className="do-h2">DO</span><br />
         </h2>
       </div>
       <div className="what-box">
@@ -133,7 +134,8 @@ const WhatIDo = () => {
                 <div className="what-tags">Power BI</div>
                 <div className="what-tags">Power Query</div>
                 <div className="what-tags">DAX</div>
-                <div className="what-tags">Excel</div>
+                <div className="what-tags">Advanced Excel</div>
+                <div className="what-tags">Tableau</div>
               </div>
               <div className="what-arrow"></div>
             </div>

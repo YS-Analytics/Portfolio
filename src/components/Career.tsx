@@ -33,7 +33,7 @@ const Career = () => {
               <h3>2026</h3>
             </div>
             <p>
-              Bachelor of Technology in Computer Science and Engineering. CGPA: 6.39
+              Bachelor of Technology in Computer Science and Engineering. CGPA: 6.61
             </p>
           </div>
           <div className="career-info-box">
